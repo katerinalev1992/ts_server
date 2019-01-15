@@ -1,4 +1,4 @@
-#Typescript serve development 
+# Typescript server development 
 
 Full implementation of the server side of the application using Typescript.
 
